@@ -1,6 +1,6 @@
 # 📦📊 E-Commerce Sales, Shipping & Customer Performance Dashboard (India)
 
-<img width="750" height="403" alt="image" src="https://github.com/user-attachments/assets/d33f0baf-df46-403a-9298-615f03cebc44" />
+<img width="277" height="182" alt="image" src="https://github.com/user-attachments/assets/0a92ffe8-bced-456d-a5cd-0718a3c13092" />
 
 
 # 🚀 Project Overview:
