@@ -1,6 +1,7 @@
 # 📦📊 E-Commerce Sales, Shipping & Customer Performance Dashboard (India)
 
-https://datamites.com/blog/uploads/images/2023/10/image_750x_653658e36ffe9.jpg
+<img width="750" height="403" alt="image" src="https://github.com/user-attachments/assets/d33f0baf-df46-403a-9298-615f03cebc44" />
+
 
 # 🚀 Project Overview:
 This project showcases an interactive Tableau dashboard built to analyze E-commerce sales, profit, shipping performance, and customer behavior across India.
