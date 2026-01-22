@@ -1,6 +1,6 @@
 # 📦📊 E-Commerce Sales, Shipping & Customer Performance Dashboard (India)
 
-# :🚀 Project Overview:
+# 🚀 Project Overview:
 This project showcases an interactive Tableau dashboard built to analyze E-commerce sales, profit, shipping performance, and customer behavior across India.
 The dashboard provides actionable insights to support business decisions, operational efficiency, and revenue growth.
 
