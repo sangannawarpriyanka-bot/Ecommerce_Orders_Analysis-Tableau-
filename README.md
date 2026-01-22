@@ -1,7 +1,6 @@
 # 📦📊 E-Commerce Sales, Shipping & Customer Performance Dashboard (India)
 
-<img width="577" height="482" alt="image" src="https://github.com/user-attachments/assets/0a92ffe8-bced-456d-a5cd-0718a3c13092" />
-
+https://m-img.org/spai/w_642+q_lossless+ret_img+to_webp/matomo.org/wp-content/uploads/2019/02/retail-anaytics-web-ready.png
 
 # 🚀 Project Overview:
 This project showcases an interactive Tableau dashboard built to analyze E-commerce sales, profit, shipping performance, and customer behavior across India.
