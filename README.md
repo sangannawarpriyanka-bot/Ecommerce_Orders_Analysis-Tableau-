@@ -46,6 +46,22 @@ The dashboard provides actionable insights to support business decisions, operat
 
 📌 Insight: A small set of products contributes to a large share of total revenue.
 
+# Story - Shipping Mode Reliability Analysis:
+
+<img width="787" height="361" alt="Story" src="https://github.com/user-attachments/assets/5a285e5b-78f5-43ba-86a6-cc984300bab7" />
+
+Description:
+This visual compares delivered, cancelled, and returned orders across each shipping mode to assess fulfillment reliability.
+# Insights:
+- ✅ Delivered orders are highest across all shipping modes
+- 🚀 Express shipping shows the best delivery success rate
+- ⚠️ Same Day shipping has relatively higher returns and cancellations
+
+# Business Actions:
+- 📌 Promote Express Shipping for reliable delivery
+- 📌 Improve Same Day fulfillment processes to reduce returns
+- 📌 Monitor cancellations to enhance customer experience
+
 # 📌 Key KPIs:
 - 💰 Total Revenue
 - 📉 Total Profit
