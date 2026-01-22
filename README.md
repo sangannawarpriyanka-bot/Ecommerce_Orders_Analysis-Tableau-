@@ -86,9 +86,6 @@ The dataset includes:
 - Order Status
 - State & Region
 
-# 📷 Dashboard Preview:
-
-Add screenshots of dashboards here
 
 # 📈 Business Value:
 - ✔ Improves shipping and fulfillment strategy
